@@ -55,6 +55,26 @@ h3 {
   text-decoration: underline;
 }
 
+.repos {
+  width: 80%;
+  margin: 20px auto;
+  padding: 15px;
+}
+
+.repos ul li {
+  margin-bottom: 10px;
+}
+
+.repos a {
+  color: #234a7d;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.repos a:hover {
+  text-decoration: underline;
+}
+
 .projects {
   width: 85%;
   margin: 30px auto;
